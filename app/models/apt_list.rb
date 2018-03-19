@@ -1,0 +1,2 @@
+class AptList < ApplicationRecord
+end
